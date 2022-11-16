@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daffb594-45cb-4683-84cb-b9d5568a6a4b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../binary3/binary3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitm4/bitm4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitm4/src/com/project/boit4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitmanilplutation/bitmanilplutation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.project.noOf1inBinary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.project.toggle/com.project.toggle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dTob/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dTob/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dTob/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dTob/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dTob/dTob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dTob/src/com/project/binary2Decimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spiral/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sorting/com/project/sorTing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sorting/com/project/sorTing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/project/sorTing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/sorTing.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EO7yFQTcyO6ti3Ws9yTBsbKewZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="sorTing" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.sorTing" />
+      <module name="sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daffb594-45cb-4683-84cb-b9d5568a6a4b" name="Changes" comment="" />
+      <created>1662455038393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662455038393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
